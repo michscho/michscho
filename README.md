@@ -4,7 +4,7 @@
 - 💬 Ask me about Full Stack, Dev Setups, Cloud (AWS)...
 - 📫 How to reach me: schottmichaelsw@gmail.com
 
-Let's have fun and build together.
+Let's have fun and build together!
 
 <!--
 **michscho/michscho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-michscho.github.io-green?style=flat-square&logo=github)](https://michscho.github.io/michael-schott/)
 [![Email](https://img.shields.io/badge/Email-schottmichaelsw%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:michael.schott@netlight.com)
 
-🚀 Full Stack Developer | Cloud Enthusiast | Building cool stuff
+🚀 Agentic Full Stack Developer | Cloud Enthusiast | Building cool stuff
 
 - 🔭 I’m currently working on...
 - 💬 Ask me about React, Python, Full Stack, Dev Setups, Cloud...
